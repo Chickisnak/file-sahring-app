@@ -1,4 +1,4 @@
-const baseURL = "http://localhost:3000";
+const baseURL = "https://file-sharing-app-backend-w39i.onrender.com";
 const uploadURL = `${baseURL}/api/files`;
 const emailURL = `${baseURL}/api/files/send`;
 
