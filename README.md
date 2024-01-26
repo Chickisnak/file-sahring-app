@@ -5,7 +5,7 @@
 ### InShare is a user-friendly image-sharing web application crafted to simplify the process of sharing images seamlessly. With InShare users can effortlessly upload images generate shareable links and conveniently send images via email. The platform ensures that image quality remains intact throughout the sharing process.
 
 
->You can take demo of the here : [Demo 📺](https://youtu.be/njt7MB-Ssr8?si=i3YR9j-uhduCSOq3)
+>You can take demo of the website here : [Demo 📺](https://youtu.be/njt7MB-Ssr8?si=i3YR9j-uhduCSOq3)
 
 ***Project Snapshot***
 ![alt text](https://res.cloudinary.com/dz8y8ojgv/image/upload/v1706269899/assets/img-share-1_pnschw.png)
