@@ -42,4 +42,4 @@ Technologies used in the project:
 
 The backend code for this project is hosted in a separate repository. You can find it at the following link:
 
-[📦Frontend Repository](https://github.com/Chickisnak/file-sharing-app-backend)
+[📦Backend Repository](https://github.com/Chickisnak/file-sharing-app-backend)
