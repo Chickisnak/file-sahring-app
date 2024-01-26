@@ -38,3 +38,8 @@ Technologies used in the project:
 [![Axios](https://img.shields.io/badge/Axios-Library-1383FF?logo=axios&style=flat-square)](https://github.com/axios/axios)
 
 
+## Backend Code Repository
+
+The backend code for this project is hosted in a separate repository. You can find it at the following link:
+
+[📦Frontend Repository](https://github.com/Chickisnak/file-sharing-app-backend)
