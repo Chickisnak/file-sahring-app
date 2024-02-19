@@ -51,7 +51,7 @@ dropZone.addEventListener("dragleave", (e) => {
 });
 
 fileInput.addEventListener("change", () => {
-  if (fileInput.files[0].size > maxAllowedSize) {
+  if (fileInput.files[0]?.size > maxAllowedSize) {
     showToast("Max file size is 100MB");
     fileInput.value = "";
     return;
